@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.content-table{
+  border-collapse: collapse;
+  
+}
+
+.content-table thead tr{
+  background-color: blue;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+}
+
+
+table,th,td {
+  border : 1px solid white;
+  background-color: rgba(127, 255, 212, 0.167);
+  border-collapse: collapse;
+  margin-left: auto;
+  
+  margin-right: auto;
+}
+th,td {
+  padding: 6px;
+}
+
+th{
+  font-weight: bold;
+
+}
+
+</style>
+
+<link rel="stylesheet" href="styles.css">
+<script src="script.js" defer></script>
+</head>
+<body>
+
+<h2>The XMLHttpRequest Object - AJAX - XML</h2>
+
+<button type="button" onclick="loadDoc()">Obtener XML de peliculas y series</button>
+<br><br>
+<table id="demo" class="content-table"></table>
+
+</body>
+</html>

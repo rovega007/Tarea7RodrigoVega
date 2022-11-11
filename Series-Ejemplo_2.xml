@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<series>
+    <serie>
+        <nombre> Suits </nombre>
+        <Generos>
+            <Genero> Drama </Genero>
+            <Genero> Comedia </Genero>
+        </Generos>
+        <fechaPublicacion> Junio 2011 </fechaPublicacion>
+        <castReparto>
+            <cast> Gabriel Macht </cast>
+            <cast> Patrick J. Adams </cast>
+            <cast> Sarah Rafferty </cast>
+            <cast> Meghan </cast>
+        </castReparto>
+        <temporadas> 9 </temporadas>
+    </serie>
+
+    <serie>
+        <nombre> Green Arrow </nombre>
+        <Generos>
+            <Genero> Ciencia ficcion </Genero>
+            <Genero> Superhero </Genero>
+        </Generos>
+        <fechaPublicacion> Octubre 2012 </fechaPublicacion>
+        <castReparto>
+            <cast> Stephen Amell </cast>
+            <cast> Emily Bett Rickards </cast>
+            <cast> Katherine McNamara </cast>
+            <cast> Willa Holland </cast>
+            <cast> David Ramsey </cast>
+        </castReparto>
+        <temporadas> 8 </temporadas>
+    </serie>
+
+    <serie>
+        <nombre> Supernatural </nombre>
+        <Generos>
+            <Genero> Ficcion de Accion </Genero>
+            <Genero> Horror </Genero>
+            <Genero> Aventura </Genero>
+        </Generos>
+        <fechaPublicacion> Septiembre 2005 </fechaPublicacion>
+        <castReparto>
+            <cast> Jensen Ackles </cast>
+            <cast> Jared Padalecki </cast>
+            <cast> Misha Collins </cast>
+            <cast> Alexander Calvert </cast>
+        </castReparto>
+        <temporadas> 15 </temporadas>
+    </serie>
+
+    <serie>
+        <nombre> The Flash </nombre>
+        <Generos>
+            <Genero> Superhero </Genero>
+            <Genero> Accion </Genero>
+            <Genero> Aventura </Genero>
+        </Generos>
+        <fechaPublicacion> Octubre 2014 </fechaPublicacion>
+        <castReparto>
+            <cast> Grant Austin </cast>
+            <cast> Candice Patton </cast>
+            <cast> Carlos Valdes </cast>
+            <cast> Danielle Panabaker </cast>
+            <cast> Tom Cavanagh </cast>
+        </castReparto>
+        <temporadas> 9 </temporadas>
+    </serie>
+
+    <serie>
+        <nombre> The 100 </nombre>
+        <Generos>
+            <Genero> Drama </Genero>
+            <Genero> Accion </Genero>
+            <Genero> Ciencia ficcion </Genero>
+        </Generos>
+        <fechaPublicacion> Marzo 2014 </fechaPublicacion>
+        <castReparto>
+            <cast> Eliza Taylor </cast>
+            <cast> Bob Morely </cast>
+            <cast> Lindsey Morgan </cast>
+            <cast> Richard Harmon </cast>
+        </castReparto>
+        <temporadas> 7 </temporadas>
+    </serie>
+</series>
